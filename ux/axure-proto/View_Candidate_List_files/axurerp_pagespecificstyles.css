@@ -1,0 +1,2968 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../Company_Header_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:100px;
+    top:20px;
+    width:940px;
+    height:60px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:946px;
+    height:66px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:936px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:100px;
+    top:20px;
+    width:940px;
+    height:60px
+}
+
+.u2_original {
+    background-image: url('../Company_Header_files/u2_original.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:114px;
+    top:30px;
+    width:120px;
+    height:40px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:120px;
+    height:40px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:114px;
+    top:30px;
+    width:120px;
+    height:40px
+}
+
+.u4_original {
+    background-image: url('../Company_Header_files/u4_original.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:260px;
+    top:36px;
+    width:100px;
+    height:30px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:260px;
+    top:36px;
+    width:100px;
+    height:30px
+}
+
+.u6_original {
+    background-image: url('../Company_Header_files/u4_original.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:490px;
+    top:36px;
+    width:100px;
+    height:30px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:490px;
+    top:36px;
+    width:100px;
+    height:30px
+}
+
+.u8_original {
+    background-image: url('../Company_Header_files/u4_original.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:376px;
+    top:36px;
+    width:100px;
+    height:30px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:376px;
+    top:36px;
+    width:100px;
+    height:30px
+}
+
+.u10_text {
+    position:absolute;
+    left:970px;
+    top:52px;
+    width:60px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:970px;
+    top:52px;
+    width:60px;
+    height:15px
+}
+
+.u11 {
+    position:absolute;
+    left:874px;
+    top:30px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_original {
+    background-image: url('../Company_Header_files/u4_original.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:607px;
+    top:37px;
+    width:100px;
+    height:30px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:607px;
+    top:37px;
+    width:100px;
+    height:30px
+}
+
+.u15_original {
+    background-image: url('../View_Candidate_List_files/u15_original.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:100px;
+    top:90px;
+    width:940px;
+    height:630px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:946px;
+    height:636px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:307px;
+    width:936px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:100px;
+    top:90px;
+    width:940px;
+    height:630px
+}
+
+.u17_original {
+    background-image: url('../Site_Footer_files/u44_original.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:100px;
+    top:730px;
+    width:940px;
+    height:60px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:946px;
+    height:66px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:936px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:100px;
+    top:730px;
+    width:940px;
+    height:60px
+}
+
+.u19 {
+    position:absolute;
+    left:120px;
+    top:754px;
+    width:280px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:531px;
+    top:753px;
+    width:80px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:641px;
+    top:753px;
+    width:80px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:731px;
+    top:753px;
+    width:80px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:831px;
+    top:753px;
+    width:62px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:925px;
+    top:752px;
+    width:93px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_line {
+    background-image: url('../Site_Footer_files/u52_line.png');
+}
+
+.u25_line {
+    position:absolute;
+    left:625px;
+    top:746px;
+    width:3px;
+    height:30px;
+}
+
+.u25 {
+    position:absolute;
+    left:625px;
+    top:746px;
+    width:3px;
+    height:30px
+}
+
+.u26_line {
+    background-image: url('../Site_Footer_files/u53_line.png');
+}
+
+.u26_line {
+    position:absolute;
+    left:712px;
+    top:747px;
+    width:3px;
+    height:30px;
+}
+
+.u26 {
+    position:absolute;
+    left:712px;
+    top:747px;
+    width:3px;
+    height:30px
+}
+
+.u27_line {
+    background-image: url('../Site_Footer_files/u54_line.png');
+}
+
+.u27_line {
+    position:absolute;
+    left:812px;
+    top:746px;
+    width:3px;
+    height:30px;
+}
+
+.u27 {
+    position:absolute;
+    left:812px;
+    top:746px;
+    width:3px;
+    height:30px
+}
+
+.u28_line {
+    background-image: url('../Site_Footer_files/u55_line.png');
+}
+
+.u28_line {
+    position:absolute;
+    left:905px;
+    top:747px;
+    width:3px;
+    height:30px;
+}
+
+.u28 {
+    position:absolute;
+    left:905px;
+    top:747px;
+    width:3px;
+    height:30px
+}
+
+.u30_text {
+    position:absolute;
+    left:115px;
+    top:136px;
+    width:70px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:115px;
+    top:136px;
+    width:70px;
+    height:15px
+}
+
+.u31 {
+    position:absolute;
+    left:184px;
+    top:134px;
+    width:10px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:312px;
+    top:137px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:115px;
+    top:103px;
+    width:260px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_line {
+    background-image: url('../View_Candidate_List_files/u34_line.png');
+}
+
+.u34_line {
+    position:absolute;
+    left:100px;
+    top:164px;
+    width:940px;
+    height:3px;
+}
+
+.u34 {
+    position:absolute;
+    left:100px;
+    top:164px;
+    width:940px;
+    height:3px
+}
+
+.u35 {
+    position:absolute;
+    left:790px;
+    top:115px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#999999;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u36 {
+    position:absolute;
+    left:980px;
+    top:115px;
+    width:40px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u37_text {
+    position:absolute;
+    left:203px;
+    top:136px;
+    width:97px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:203px;
+    top:136px;
+    width:97px;
+    height:15px
+}
+
+.u38 {
+    position:absolute;
+    left:294px;
+    top:134px;
+    width:10px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u39 {
+    position:absolute;
+    left:140px;
+    top:285px;
+    width:827px;
+    height:332px
+}
+
+.u39_table {
+    background-image: url('../View_Candidate_List_files/u39_table.png');
+}
+
+.u39_table {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:831px;
+    height:336px;
+}
+
+.u40_original {
+    background-image: url('../View_Candidate_List_files/u40_original.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:42px;
+    height:34px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:38px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:42px;
+    height:34px
+}
+
+.u42_original {
+    background-image: url('../View_Candidate_List_files/u42_original.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:42px;
+    top:0px;
+    width:331px;
+    height:34px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:327px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:42px;
+    top:0px;
+    width:331px;
+    height:34px
+}
+
+.u44_original {
+    background-image: url('../View_Candidate_List_files/u44_original.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:373px;
+    top:0px;
+    width:104px;
+    height:34px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:100px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:373px;
+    top:0px;
+    width:104px;
+    height:34px
+}
+
+.u46_original {
+    background-image: url('../View_Candidate_List_files/u46_original.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:477px;
+    top:0px;
+    width:103px;
+    height:34px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:99px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:477px;
+    top:0px;
+    width:103px;
+    height:34px
+}
+
+.u48_original {
+    background-image: url('../View_Candidate_List_files/u48_original.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:580px;
+    top:0px;
+    width:88px;
+    height:34px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:84px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48 {
+    position:absolute;
+    left:580px;
+    top:0px;
+    width:88px;
+    height:34px
+}
+
+.u50_original {
+    background-image: url('../View_Candidate_List_files/u50_original.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:668px;
+    top:0px;
+    width:81px;
+    height:34px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:77px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:668px;
+    top:0px;
+    width:81px;
+    height:34px
+}
+
+.u52_original {
+    background-image: url('../View_Candidate_List_files/u52_original.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:749px;
+    top:0px;
+    width:74px;
+    height:34px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:70px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:749px;
+    top:0px;
+    width:74px;
+    height:34px
+}
+
+.u54_original {
+    background-image: url('../View_Candidate_List_files/u54_original.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:0px;
+    top:34px;
+    width:42px;
+    height:42px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:38px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54 {
+    position:absolute;
+    left:0px;
+    top:34px;
+    width:42px;
+    height:42px
+}
+
+.u56_original {
+    background-image: url('../View_Candidate_List_files/u56_original.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:42px;
+    top:34px;
+    width:331px;
+    height:42px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:327px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:42px;
+    top:34px;
+    width:331px;
+    height:42px
+}
+
+.u58_original {
+    background-image: url('../View_Candidate_List_files/u58_original.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:373px;
+    top:34px;
+    width:104px;
+    height:42px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:100px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58 {
+    position:absolute;
+    left:373px;
+    top:34px;
+    width:104px;
+    height:42px
+}
+
+.u60_original {
+    background-image: url('../View_Candidate_List_files/u60_original.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:477px;
+    top:34px;
+    width:103px;
+    height:42px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:99px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60 {
+    position:absolute;
+    left:477px;
+    top:34px;
+    width:103px;
+    height:42px
+}
+
+.u62_original {
+    background-image: url('../View_Candidate_List_files/u62_original.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:580px;
+    top:34px;
+    width:88px;
+    height:42px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:84px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62 {
+    position:absolute;
+    left:580px;
+    top:34px;
+    width:88px;
+    height:42px
+}
+
+.u64_original {
+    background-image: url('../View_Candidate_List_files/u64_original.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:668px;
+    top:34px;
+    width:81px;
+    height:42px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64 {
+    position:absolute;
+    left:668px;
+    top:34px;
+    width:81px;
+    height:42px
+}
+
+.u66_original {
+    background-image: url('../View_Candidate_List_files/u66_original.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:749px;
+    top:34px;
+    width:74px;
+    height:42px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66 {
+    position:absolute;
+    left:749px;
+    top:34px;
+    width:74px;
+    height:42px
+}
+
+.u68_original {
+    background-image: url('../View_Candidate_List_files/u68_original.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:0px;
+    top:76px;
+    width:42px;
+    height:46px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:38px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:0px;
+    top:76px;
+    width:42px;
+    height:46px
+}
+
+.u70_original {
+    background-image: url('../View_Candidate_List_files/u70_original.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:42px;
+    top:76px;
+    width:331px;
+    height:46px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:327px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70 {
+    position:absolute;
+    left:42px;
+    top:76px;
+    width:331px;
+    height:46px
+}
+
+.u72_original {
+    background-image: url('../View_Candidate_List_files/u72_original.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:373px;
+    top:76px;
+    width:104px;
+    height:46px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:100px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72 {
+    position:absolute;
+    left:373px;
+    top:76px;
+    width:104px;
+    height:46px
+}
+
+.u74_original {
+    background-image: url('../View_Candidate_List_files/u74_original.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:477px;
+    top:76px;
+    width:103px;
+    height:46px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:99px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74 {
+    position:absolute;
+    left:477px;
+    top:76px;
+    width:103px;
+    height:46px
+}
+
+.u76_original {
+    background-image: url('../View_Candidate_List_files/u76_original.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:580px;
+    top:76px;
+    width:88px;
+    height:46px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:84px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76 {
+    position:absolute;
+    left:580px;
+    top:76px;
+    width:88px;
+    height:46px
+}
+
+.u78_original {
+    background-image: url('../View_Candidate_List_files/u78_original.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:668px;
+    top:76px;
+    width:81px;
+    height:46px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:15px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78 {
+    position:absolute;
+    left:668px;
+    top:76px;
+    width:81px;
+    height:46px
+}
+
+.u80_original {
+    background-image: url('../View_Candidate_List_files/u80_original.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:749px;
+    top:76px;
+    width:74px;
+    height:46px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:15px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80 {
+    position:absolute;
+    left:749px;
+    top:76px;
+    width:74px;
+    height:46px
+}
+
+.u82_original {
+    background-image: url('../View_Candidate_List_files/u82_original.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:0px;
+    top:122px;
+    width:42px;
+    height:41px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:38px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82 {
+    position:absolute;
+    left:0px;
+    top:122px;
+    width:42px;
+    height:41px
+}
+
+.u84_original {
+    background-image: url('../View_Candidate_List_files/u84_original.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:42px;
+    top:122px;
+    width:331px;
+    height:41px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:327px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84 {
+    position:absolute;
+    left:42px;
+    top:122px;
+    width:331px;
+    height:41px
+}
+
+.u86_original {
+    background-image: url('../View_Candidate_List_files/u86_original.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:373px;
+    top:122px;
+    width:104px;
+    height:41px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:100px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86 {
+    position:absolute;
+    left:373px;
+    top:122px;
+    width:104px;
+    height:41px
+}
+
+.u88_original {
+    background-image: url('../View_Candidate_List_files/u88_original.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:477px;
+    top:122px;
+    width:103px;
+    height:41px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:99px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88 {
+    position:absolute;
+    left:477px;
+    top:122px;
+    width:103px;
+    height:41px
+}
+
+.u90_original {
+    background-image: url('../View_Candidate_List_files/u90_original.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:580px;
+    top:122px;
+    width:88px;
+    height:41px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:84px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90 {
+    position:absolute;
+    left:580px;
+    top:122px;
+    width:88px;
+    height:41px
+}
+
+.u92_original {
+    background-image: url('../View_Candidate_List_files/u92_original.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:668px;
+    top:122px;
+    width:81px;
+    height:41px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92 {
+    position:absolute;
+    left:668px;
+    top:122px;
+    width:81px;
+    height:41px
+}
+
+.u94_original {
+    background-image: url('../View_Candidate_List_files/u94_original.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:749px;
+    top:122px;
+    width:74px;
+    height:41px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94 {
+    position:absolute;
+    left:749px;
+    top:122px;
+    width:74px;
+    height:41px
+}
+
+.u96_original {
+    background-image: url('../View_Candidate_List_files/u82_original.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:0px;
+    top:163px;
+    width:42px;
+    height:41px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:38px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96 {
+    position:absolute;
+    left:0px;
+    top:163px;
+    width:42px;
+    height:41px
+}
+
+.u98_original {
+    background-image: url('../View_Candidate_List_files/u84_original.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:42px;
+    top:163px;
+    width:331px;
+    height:41px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:327px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98 {
+    position:absolute;
+    left:42px;
+    top:163px;
+    width:331px;
+    height:41px
+}
+
+.u100_original {
+    background-image: url('../View_Candidate_List_files/u86_original.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:373px;
+    top:163px;
+    width:104px;
+    height:41px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:100px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100 {
+    position:absolute;
+    left:373px;
+    top:163px;
+    width:104px;
+    height:41px
+}
+
+.u102_original {
+    background-image: url('../View_Candidate_List_files/u88_original.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:477px;
+    top:163px;
+    width:103px;
+    height:41px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:99px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102 {
+    position:absolute;
+    left:477px;
+    top:163px;
+    width:103px;
+    height:41px
+}
+
+.u104_original {
+    background-image: url('../View_Candidate_List_files/u90_original.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:580px;
+    top:163px;
+    width:88px;
+    height:41px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:84px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104 {
+    position:absolute;
+    left:580px;
+    top:163px;
+    width:88px;
+    height:41px
+}
+
+.u106_original {
+    background-image: url('../View_Candidate_List_files/u92_original.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:668px;
+    top:163px;
+    width:81px;
+    height:41px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106 {
+    position:absolute;
+    left:668px;
+    top:163px;
+    width:81px;
+    height:41px
+}
+
+.u108_original {
+    background-image: url('../View_Candidate_List_files/u94_original.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:749px;
+    top:163px;
+    width:74px;
+    height:41px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108 {
+    position:absolute;
+    left:749px;
+    top:163px;
+    width:74px;
+    height:41px
+}
+
+.u110_original {
+    background-image: url('../View_Candidate_List_files/u82_original.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:0px;
+    top:204px;
+    width:42px;
+    height:41px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:38px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110 {
+    position:absolute;
+    left:0px;
+    top:204px;
+    width:42px;
+    height:41px
+}
+
+.u112_original {
+    background-image: url('../View_Candidate_List_files/u84_original.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:42px;
+    top:204px;
+    width:331px;
+    height:41px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:327px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112 {
+    position:absolute;
+    left:42px;
+    top:204px;
+    width:331px;
+    height:41px
+}
+
+.u114_original {
+    background-image: url('../View_Candidate_List_files/u86_original.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:373px;
+    top:204px;
+    width:104px;
+    height:41px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:100px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114 {
+    position:absolute;
+    left:373px;
+    top:204px;
+    width:104px;
+    height:41px
+}
+
+.u116_original {
+    background-image: url('../View_Candidate_List_files/u88_original.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:477px;
+    top:204px;
+    width:103px;
+    height:41px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:99px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116 {
+    position:absolute;
+    left:477px;
+    top:204px;
+    width:103px;
+    height:41px
+}
+
+.u118_original {
+    background-image: url('../View_Candidate_List_files/u90_original.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:580px;
+    top:204px;
+    width:88px;
+    height:41px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:84px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118 {
+    position:absolute;
+    left:580px;
+    top:204px;
+    width:88px;
+    height:41px
+}
+
+.u120_original {
+    background-image: url('../View_Candidate_List_files/u92_original.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:668px;
+    top:204px;
+    width:81px;
+    height:41px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120 {
+    position:absolute;
+    left:668px;
+    top:204px;
+    width:81px;
+    height:41px
+}
+
+.u122_original {
+    background-image: url('../View_Candidate_List_files/u94_original.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:749px;
+    top:204px;
+    width:74px;
+    height:41px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122 {
+    position:absolute;
+    left:749px;
+    top:204px;
+    width:74px;
+    height:41px
+}
+
+.u124_original {
+    background-image: url('../View_Candidate_List_files/u82_original.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:0px;
+    top:245px;
+    width:42px;
+    height:41px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:38px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124 {
+    position:absolute;
+    left:0px;
+    top:245px;
+    width:42px;
+    height:41px
+}
+
+.u126_original {
+    background-image: url('../View_Candidate_List_files/u84_original.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:42px;
+    top:245px;
+    width:331px;
+    height:41px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:327px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126 {
+    position:absolute;
+    left:42px;
+    top:245px;
+    width:331px;
+    height:41px
+}
+
+.u128_original {
+    background-image: url('../View_Candidate_List_files/u86_original.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:373px;
+    top:245px;
+    width:104px;
+    height:41px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:100px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128 {
+    position:absolute;
+    left:373px;
+    top:245px;
+    width:104px;
+    height:41px
+}
+
+.u130_original {
+    background-image: url('../View_Candidate_List_files/u88_original.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:477px;
+    top:245px;
+    width:103px;
+    height:41px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:99px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130 {
+    position:absolute;
+    left:477px;
+    top:245px;
+    width:103px;
+    height:41px
+}
+
+.u132_original {
+    background-image: url('../View_Candidate_List_files/u90_original.png');
+}
+
+.u132_container {
+    position:absolute;
+    left:580px;
+    top:245px;
+    width:88px;
+    height:41px;
+}
+
+.u133 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:84px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132 {
+    position:absolute;
+    left:580px;
+    top:245px;
+    width:88px;
+    height:41px
+}
+
+.u134_original {
+    background-image: url('../View_Candidate_List_files/u92_original.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:668px;
+    top:245px;
+    width:81px;
+    height:41px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134 {
+    position:absolute;
+    left:668px;
+    top:245px;
+    width:81px;
+    height:41px
+}
+
+.u136_original {
+    background-image: url('../View_Candidate_List_files/u94_original.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:749px;
+    top:245px;
+    width:74px;
+    height:41px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136 {
+    position:absolute;
+    left:749px;
+    top:245px;
+    width:74px;
+    height:41px
+}
+
+.u138_original {
+    background-image: url('../View_Candidate_List_files/u82_original.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:0px;
+    top:286px;
+    width:42px;
+    height:41px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:38px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138 {
+    position:absolute;
+    left:0px;
+    top:286px;
+    width:42px;
+    height:41px
+}
+
+.u140_original {
+    background-image: url('../View_Candidate_List_files/u84_original.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:42px;
+    top:286px;
+    width:331px;
+    height:41px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:327px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140 {
+    position:absolute;
+    left:42px;
+    top:286px;
+    width:331px;
+    height:41px
+}
+
+.u142_original {
+    background-image: url('../View_Candidate_List_files/u86_original.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:373px;
+    top:286px;
+    width:104px;
+    height:41px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:100px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142 {
+    position:absolute;
+    left:373px;
+    top:286px;
+    width:104px;
+    height:41px
+}
+
+.u144_original {
+    background-image: url('../View_Candidate_List_files/u88_original.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:477px;
+    top:286px;
+    width:103px;
+    height:41px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:99px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144 {
+    position:absolute;
+    left:477px;
+    top:286px;
+    width:103px;
+    height:41px
+}
+
+.u146_original {
+    background-image: url('../View_Candidate_List_files/u90_original.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:580px;
+    top:286px;
+    width:88px;
+    height:41px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:84px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146 {
+    position:absolute;
+    left:580px;
+    top:286px;
+    width:88px;
+    height:41px
+}
+
+.u148_original {
+    background-image: url('../View_Candidate_List_files/u92_original.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:668px;
+    top:286px;
+    width:81px;
+    height:41px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148 {
+    position:absolute;
+    left:668px;
+    top:286px;
+    width:81px;
+    height:41px
+}
+
+.u150_original {
+    background-image: url('../View_Candidate_List_files/u94_original.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:749px;
+    top:286px;
+    width:74px;
+    height:41px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150 {
+    position:absolute;
+    left:749px;
+    top:286px;
+    width:74px;
+    height:41px
+}
+
+.u152 {
+    position:absolute;
+    left:140px;
+    top:199px;
+    width:300px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u153 {
+    position:absolute;
+    left:217px;
+    top:247px;
+    width:157px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 18px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u154 {
+    position:absolute;
+    left:142px;
+    top:248px;
+    width:97px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155 {
+    position:absolute;
+    left:574px;
+    top:248px;
+    width:147px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156 {
+    position:absolute;
+    left:721px;
+    top:245px;
+    width:240px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#999999;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u158 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171 {
+    position:absolute;
+    left:890px;
+    top:627px;
+    width:72px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u172 {
+    position:absolute;
+    left:809px;
+    top:627px;
+    width:72px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#999999;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u174 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u187 {
+    position:absolute;
+    left:720px;
+    top:116px;
+    width:60px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
