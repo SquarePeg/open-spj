@@ -16,5 +16,8 @@
   "homepage": "http://www.squarepegjobs.com",
   "scripts": {
     "start": "nodemon app.js"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
   }
 }
