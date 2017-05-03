@@ -1,0 +1,57 @@
+<div class="main">
+    <div class="col-xs-12">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="header">
+                    <h1>{{ publicVM.headerText }}</h1>
+                </div>
+            </div>
+            <!-- / col-xs-12 -->
+
+            <div class="col-xs-12 col-sm-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">All the good stuff</h3>
+                    </div>
+                    <div class="panel-body">
+                        <span ng-if="publicVM.loggedIn">
+                            <div class="form-group">
+                                <label>Message</label>
+                                <input type="text" class="form-control" ng-model="publicVM.message">
+                            </div>
+                            <form class="form" ng-submit="homeModel.addCrap()">
+                                <div class="form-group">
+                                    <label>Name</label>
+                                    <input type="text" class="form-control" ng-model="publicVM.crappyData.name">
+                                </div>
+                                <div class="form-group">
+                                    <label>Scent</label>
+                                    <input type="text" class="form-control" ng-model="publicVM.crappyData.scent">
+                                </div>
+                                <div class="form-group">
+                                    <label>Looks</label>
+                                    <input type="text" class="form-control" ng-model="publicVM.crappyData.looks">
+                                </div>
+                                <div class="form-group">
+                                    <button type="submit" class="btn btn-success">Add</button>
+                                </div>
+                            </form>
+                        </span>
+                    </div>
+                    <!-- / panel-body -->
+                </div>
+                <!-- / panel -->
+            </div>
+            <!-- / col-xs-12 -->
+
+            <div class="col-xs-12 col-sm-6">
+                <div class="col-xs-12" ng-if="publicVM.loggedIn">
+                    <h1>{{ publicVM.message }}</h1>
+                    <p ng-repeat="data in publicVM.crap">{{data.name}} smells like {{data.scent}} but look like {{data.looks}}!</p>
+                </div>
+            </div>
+        </div>
+        <!-- / row -->
+    </div>
+</div>
+<!-- / main -->

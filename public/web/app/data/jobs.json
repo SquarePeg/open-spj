@@ -1,0 +1,91 @@
+[
+    {
+        "jobTitle": "Web Developer",
+        "jobDescription": "Builds a bunch of websites",
+        "salaryRangeMin": "70000.00",
+        "salaryRangeMax": "90000.00",
+        "referralBonus":"500.00",
+        "companyMatchCriteria":{
+            "companyCulture": [
+                { "label":"Working Remotely", "rank":"8" },
+                { "label":"Casual Dress", "rank":"6" },
+                { "label":"Community Service", "rank":"9" },
+                { "label":"Employee Training", "rank":"10" },
+                { "label":"Employee Benefits", "rank":"7" }
+            ],
+            "skillSet": [
+                { "label":"Database Administration", "rank":"8" },
+                { "label":"CSS", "rank":"7" },
+                { "label":"Ruby on Rails", "rank":"6" },
+                { "label":"JavaScript", "rank":"9" },
+                { "label":"HTML5", "rank":"10" }
+            ],
+            "personalityTraits": [
+                { "label":"Leadership", "rank":"10" },
+                { "label":"Team Player", "rank":"9" },
+                { "label":"Creativity", "rank":"8" },
+                { "label":"Organized", "rank":"6" },
+                { "label":"Senior Level", "rank":"7" }
+            ]
+        },
+        "candidates":[
+            {
+                "memberName":"John Stone",
+                "memberIDMember":"20",
+                "memberIDCandidate":"25",
+                "candidateName":"Mike Burger",
+                "overallMatch":"79",
+                "cultureMatch":"82",
+                "skillsetMatch":"86",
+                "personalityMatch":"83",
+                
+                "memberMatch": {
+                    "companyCulture": [
+                        { "label":"Working Remotely", "rank":"6" },
+                        { "label":"Casual Dress", "rank":"9" },
+                        { "label":"Community Service", "rank":"7" },
+                        { "label":"Employee Training", "rank":"10" },
+                        { "label":"Employee Benefits", "rank":"8" }
+                    ],
+                    "skillSet": [
+                        { "label":"Database Administration", "rank":"6" },
+                        { "label":"CSS", "rank":"8" },
+                        { "label":"Ruby on Rails", "rank":"10" },
+                        { "label":"JavaScript", "rank":"9" },
+                        { "label":"HTML5", "rank":"7" }
+                    ],
+                    "personalityTraits": [
+                        { "label":"Leadership", "rank":"8" },
+                        { "label":"Team Player", "rank":"7" },
+                        { "label":"Creativity", "rank":"9" },
+                        { "label":"Organized", "rank":"6" },
+                        { "label":"Senior Level", "rank":"10" }
+                    ]
+                },
+                "candidateMatch": {
+                    "companyCulture": [
+                        { "label":"Working Remotely", "rank":"10" },
+                        { "label":"Casual Dress", "rank":"9" },
+                        { "label":"Community Service", "rank":"6" },
+                        { "label":"Employee Training", "rank":"8" },
+                        { "label":"Employee Benefits", "rank":"7" }
+                    ],
+                    "skillSet": [
+                        { "label":"Database Administration", "rank":"8" },
+                        { "label":"CSS", "rank":"9" },
+                        { "label":"Ruby on Rails", "rank":"4" },
+                        { "label":"JavaScript", "rank":"7" },
+                        { "label":"HTML5", "rank":"10" }
+                    ],
+                    "personalityTraits": [
+                        { "label":"Leadership", "rank":"7" },
+                        { "label":"Team Player", "rank":"9" },
+                        { "label":"Creativity", "rank":"6" },
+                        { "label":"Organized", "rank":"8" },
+                        { "label":"Senior Level", "rank":"10" }
+                    ]
+                },
+            }
+        ]
+    }
+]

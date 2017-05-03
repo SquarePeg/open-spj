@@ -1,0 +1,37 @@
+{
+    "logoText": "Square Peg Jobs",
+    "links":[
+        {
+            "link": {
+                "label": "Home",
+                "url": "/",
+                "target": "_self",
+                "icon": "fa fa-home"
+            }
+        },
+        {
+            "link": {
+                "label": "About",
+                "url": "/about",
+                "target": "_self",
+                "icon": "fa fa-shield"
+            }
+        },
+        {
+            "link": {
+                "label": "Contact",
+                "url": "/contact",
+                "target": "_self",
+                "icon": "fa fa-comment"
+            }
+        },
+        {
+            "link": {
+                "label": "Users",
+                "url": "/users",
+                "target": "_self",
+                "icon": "fa fa-user"
+            }
+        }
+    ]
+}

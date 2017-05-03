@@ -1,0 +1,31 @@
+{
+    "role": "super",
+    "logoText": "Square Peg Jobs",
+    "links":[
+        {
+            "link": {
+                "label": "Dashboard",
+                "url": "/super",
+                "target": "_self",
+                "icon": "fa fa-home"
+            }
+        },
+        {
+            "link": {
+                "label": "Manage Users",
+                "url": "/super/users",
+                "target": "_self",
+                "icon": "fa fa-users"
+            }
+        },
+        {
+            "link": {
+                "label": "Profile",
+                "url": "/super/profile",
+                "target": "_self",
+                "icon": "fa fa-anchor"
+            }
+        },
+        
+    ]
+}

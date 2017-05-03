@@ -1,0 +1,37 @@
+{
+    "logoText": "Square Peg Jobs",
+    "links":[
+        {
+            "link": {
+                "label": "Dashboard",
+                "url": "/member",
+                "target": "_self",
+                "icon": "fa fa-home"
+            }
+        },
+        {
+            "link": {
+                "label": "Job Listings",
+                "url": "/member/job-listings",
+                "target": "_self",
+                "icon": "fa fa-shield"
+            }
+        },
+        {
+            "link": {
+                "label": "Contacts",
+                "url": "/member/contacts",
+                "target": "_self",
+                "icon": "fa fa-comment"
+            }
+        },
+        {
+            "link": {
+                "label": "Profile",
+                "url": "/member/profile",
+                "target": "_self",
+                "icon": "fa fa-user"
+            }
+        }
+    ]
+}
